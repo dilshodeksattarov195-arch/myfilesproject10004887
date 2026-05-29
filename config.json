@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterppdate",
+        "uuid": 12486285,
+        "checksum": "feg32"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
